@@ -1,4 +1,18 @@
-Überschrift 1	; \chapter{	; }
-Zitat	    	; \begin{quote}	; end{quote}
-Überschrift 2	; \section{	; }
-Überschrift 3	; \subsection{	; }
+a8; \chapter{ ; }
+aff8;  ; 
+a9; \section{ ; }
+aa; \subsection{ ; }
+ae; \begin{figure}\begin{center} ; \end{center}\end{figure}
+ab; \subsubsection{ ; }
+af5; \begin{hindenttext}{1} ; \end{hindenttext}
+af6; \begin{hindenttext}{2} ; \end{hindenttext}
+af9; \begin{flushright} ; \end{flushright}
+afc; \begin{indenttext}{2} ; \end{indenttext}
+aff5; \begin{figure}[H]\begin{center} ; \end{center}\end{figure}
+af1; \textbf{ ; }
+aff1; \textbf{ ; }
+af; \caption{ ; }
+af0; \caption{  ; }
+afffe; \begin{references} ; \end{references}
+affff; \item[{ ; }]
+affff0 ; \textit{ ; }
