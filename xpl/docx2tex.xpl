@@ -31,7 +31,7 @@
   </p:output>
   
   <p:output port="hub" primary="false">
-    <p:pipe port="xml-with-normalized-equations" step="xml2tex"/>
+    <p:pipe port="result" step="xml2tex"/>
     <p:documentation>The intermediate Hub XML format.</p:documentation>
   </p:output>
   
